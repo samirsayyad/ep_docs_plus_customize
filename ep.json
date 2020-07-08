@@ -1,0 +1,17 @@
+{
+	"parts":[
+		{
+			"name":"docs_plus_customize",
+			"client_hooks":{
+				"postAceInit":"ep_docs_plus_customize/static/js/index",
+				"aceInitialized":"ep_docs_plus_customize/static/js/index"
+				
+			},
+			"hooks":{
+				"eejsBlock_styles": "ep_docs_plus_customize/index",
+				"clientVars": "ep_docs_plus_customize/index"
+
+			}
+		}
+	]
+}

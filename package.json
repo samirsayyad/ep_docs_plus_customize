@@ -1,0 +1,19 @@
+{
+  "name": "ep_docs_plus_customize",
+  "version": "1.0.0",
+  "description": "all ui customize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samirsayyad/ep_docs_plus_customize.git"
+  },
+  "author": "Samir Sayyad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samirsayyad/ep_docs_plus_customize/issues"
+  },
+  "homepage": "https://github.com/samirsayyad/ep_docs_plus_customize#readme"
+}
