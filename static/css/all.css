@@ -16,3 +16,13 @@
     font-family: 'Google Sans',Roboto,RobotoDraft,Helvetica,Arial,sans-serif !important;
 
 }
+@media print{
+    #innerdocbody {
+        padding : 15px !important;
+    }
+  }
+  @media (max-width: 720px){
+    #innerdocbody {
+        padding : 15px !important;
+    }
+  }

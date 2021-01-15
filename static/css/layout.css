@@ -1,0 +1,27 @@
+body{
+    position: fixed !important;
+}
+
+  
+@media print{
+    #editbar{
+      display:none;
+    }
+    .mobile-layout #editorcontainerbox{
+        margin-bottom: 0 !important;
+    }
+    .chaticon{
+        display: none !important;
+    }
+  }
+  @media (max-width: 720px){
+    #editbar{
+      display:none !important;
+    }
+    .mobile-layout #editorcontainerbox{
+        margin-bottom: 0 !important;
+    }
+    .chaticon{
+        display: none !important;
+    }
+  }
