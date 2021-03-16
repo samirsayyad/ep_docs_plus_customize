@@ -20,9 +20,78 @@
     #innerdocbody {
         padding : 15px !important;
     }
+    #innerdocbody h1{
+        font-size: 44px;
+        margin-bottom: .25em !important;
+        margin-top: .4em !important;
+      
+    }
+    #innerdocbody h2{
+        font-size: 40px;
+        margin-bottom: .2em !important;
+        margin-top: .35em !important;
+    
+    }
+    #innerdocbody h3{
+        font-size: 32px;
+        margin-bottom: .3em !important;
+        margin-top: .7em !important;
+    }
+    #innerdocbody h4{
+        font-size: 24px;
+        margin-bottom: .2em !important;
+        margin-top: .9em !important;
+    }
+    #innerdocbody h5{
+        font-size: 20px;
+        margin-bottom: .2em !important;
+        margin-top: .7em !important;
+    }
+    #innerdocbody h6{
+        font-size: 17px;
+        margin-bottom: .2em !important;
+        margin-top: .7em !important;
+        margin-left: 0 !important;
+    }
+    
+    
   }
   @media (max-width: 720px){
     /* #innerdocbody {
         padding : 15px !important;
     } */
+      #innerdocbody h1{
+        font-size: 44px;
+        margin-bottom: .25em !important;
+        margin-top: .4em !important;
+      
+    }
+    #innerdocbody h2{
+        font-size: 40px;
+        margin-bottom: .2em !important;
+        margin-top: .35em !important;
+    
+    }
+    #innerdocbody h3{
+        font-size: 32px;
+        margin-bottom: .3em !important;
+        margin-top: .7em !important;
+    }
+    #innerdocbody h4{
+        font-size: 24px;
+        margin-bottom: .2em !important;
+        margin-top: .9em !important;
+    }
+    #innerdocbody h5{
+        font-size: 20px;
+        margin-bottom: .2em !important;
+        margin-top: .7em !important;
+    }
+    #innerdocbody h6{
+        font-size: 17px;
+        margin-bottom: .2em !important;
+        margin-top: .7em !important;
+        margin-left: 0 !important;
+    }
   }
+ 
